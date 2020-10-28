@@ -1,0 +1,10 @@
+.FormData{
+    background-image:url('./img/5.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:80vh;
+    mask-image: linear-gradient(to top ,transparent 5%,black 30%);
+    -webkit-mask-image: linear-gradient(to top ,transparent 5%,black 30%);
+    
+}
